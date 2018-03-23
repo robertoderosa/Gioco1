@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gioco1</string>
+    <string name="action_home">Home</string>
+    <string name="action_menu">Menù</string>
+    <string name="button_play">Play</string>
+    <string name="button_note">Note</string>
+    <string name="title_activity_pagina2">Pagina2</string>
+</resources>
